@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'Mantinia Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Mantinia Regular'), url('Mantinia.woff') format('woff');
+    }
+.titulo{
+    font-family: 'Mantinia Regular';
+    color: rgb(237,138,9);;
+    letter-spacing: 7px;
+    top: 60px;
+    text-align: center;
+}
+.body{
+    background-color: black;
+    background-image: url(handareia.png);
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    background-position-x: center;
+    align-items: center;
+    align-content: center;
+    background-attachment: fixed;
+}
+.botao{
+    display: flex;
+    margin-top: 40%;
+    justify-items: center;
+    flex-direction: column;
+}
+button{
+    font-family: 'Mantinia Regular';
+    color: rgb(237,138,9);;
+    letter-spacing: 7px;
+    background: none;
+    align-items: center;
+    background-color: black;
+}
+.body1{
+    background-color: black;
+}
+.titulo2{
+    font-family: 'Mantinia Regular';
+    color: rgb(237,138,9);;
+    letter-spacing: 7px;
+    top: 60px;
+    text-align: center;
+}
+.div{
+    font-family: 'Mantinia Regular';
+    color: rgb(237,138,9);
+    margin-right: 50%;
+}
+.handsb{
+    width: 500px;
+    margin-right: 50%;
+}
+.div2{
+    font-family: 'Mantinia Regular';
+    color: rgb(237,138,9);
+    margin-left: 50%;
+}
+.handsb2{
+    width: 500px;
+    margin-left: 50%;
+}
+.botao1{
+    display: flex;
+    justify-items: center;
+    flex-direction: column;
+}
+.div3{
+    font-family: 'Mantinia Regular';
+    color: rgb(237,138,9);
+}
